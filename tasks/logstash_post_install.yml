@@ -55,6 +55,7 @@
     group: "root"
   with_items:
     - 01-input.conf
+    - 02-syslog.conf
     - 02-general.conf
     - 03-nova.conf
     - 04-neutron.conf
